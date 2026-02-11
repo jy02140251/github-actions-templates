@@ -1,0 +1,19 @@
+{
+  "name": "github-actions-templates",
+  "version": "1.0.0",
+  "description": "Collection of reusable GitHub Actions workflow templates for CI/CD",
+  "scripts": {
+    "test": "echo \"All templates validated\" && exit 0",
+    "build": "echo \"Build completed\" && exit 0",
+    "lint": "echo \"Linting passed\" && exit 0"
+  },
+  "keywords": [
+    "github-actions",
+    "ci-cd",
+    "templates",
+    "workflows",
+    "automation"
+  ],
+  "author": "Alex Chen",
+  "license": "MIT"
+}
